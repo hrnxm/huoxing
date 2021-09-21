@@ -1,2 +1,4 @@
 # huoxing
-Mars Weather App
+
+An app that shows current weather on mars.
+Will be released on Android, iOS, and web.
