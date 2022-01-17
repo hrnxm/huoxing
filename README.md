@@ -1,5 +1,5 @@
 # huoxing
 
-An app that shows current weather on Mars.
+A Flutter app that shows current weather on Mars.
 
-It be released on Android, iOS, and the **[web](https://hrnxm.github.io/huoxing/)**.
+It will be released on Android, iOS, and the **[web](https://hrnxm.github.io/huoxing/)**.
